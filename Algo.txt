@@ -1,0 +1,17 @@
+Step 1: Choose the Publisher
+    a) Marvel
+    b) DC   
+    c) Image
+    d) Valiant
+    e) Dark Horse
+Step 2: Select desired comic book(s) 
+Step 3: Add to Cart (continue shopping if desired)
+Step 4: Go to Checkout
+Step 5: Choose Payment Method
+    a) Debit Card
+    b) Credit Card
+    c) Gift Card
+Step 6: Choose Shipping Method  
+    a) Expidited (2 days)
+    b) Ground (3-5 days)
+    c) Standard (5-7 days)
